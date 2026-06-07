@@ -1,24 +1,17 @@
-# 👋 Hi, I'm Rafael César — Full Stack Dev focused on AI Automation
+# 👋 Hi, I'm Rafael César - Full Stack Developer
 
 ## 👨🏻‍💻 About me
 
-I'm a **Full Stack** developer focused on **automation and AI agents** that handle real-world tasks
-(integrations, lead qualification, WhatsApp/CRM flows, etc.).
-I like building **lean**, **well-architected** systems that are easy to maintain — because in the end,
+I'm a **Full Stack** developer who builds **lean, well-architected systems** that are
+easy to maintain — from SaaS products to **AI agents** that handle real-world tasks
+(lead qualification, WhatsApp/CRM flows, document automation). Because in the end,
 **languages are just tools**.
 
-My base stack is **TypeScript/React/Next.js** on the front-end and **Node.js/Bun** on the back-end, and for AI I use
-**Python/FastAPI** with **RAG, embeddings, LangChain/LangGraph** and **pgvector**.
+My base stack is **TypeScript/React/Next.js** on the front-end and **Node.js/Bun** on
+the back-end. For AI I reach for **Python/FastAPI** with **RAG, embeddings,
+LangChain/LangGraph** and **pgvector**.
 
 ## 🛠️ Tech Stack
-
-### AI & Agents
-
-![LangChain](https://img.shields.io/badge/-LangChain-333333?style=flat&logo=langchain)
-![LangGraph](https://img.shields.io/badge/-LangGraph-333333?style=flat&logo=langgraph)
-![pgvector](https://img.shields.io/badge/-pgvector-333333?style=flat&logo=postgresql)
-![n8n](https://img.shields.io/badge/-n8n-333333?style=flat&logo=n8n)
-![Ollama](https://img.shields.io/badge/-Ollama-333333?style=flat&logo=ollama)
 
 ### Languages & Frameworks
 
@@ -42,6 +35,17 @@ My base stack is **TypeScript/React/Next.js** on the front-end and **Node.js/Bun
 ![Tailwind](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwindcss)
 ![shadcn/ui](https://img.shields.io/badge/-shadcn/ui-333333?style=flat)
 
+### AI & Agents
+
+![Claude Code](https://img.shields.io/badge/-Claude%20Code-333333?style=flat&logo=claude)
+![Codex](https://img.shields.io/badge/-Codex-333333?style=flat&logo=openai)
+![LangChain](https://img.shields.io/badge/-LangChain-333333?style=flat&logo=langchain)
+![LangGraph](https://img.shields.io/badge/-LangGraph-333333?style=flat&logo=langgraph)
+![Agno](https://img.shields.io/badge/-Agno-333333?style=flat)
+![pgvector](https://img.shields.io/badge/-pgvector-333333?style=flat&logo=postgresql)
+![n8n](https://img.shields.io/badge/-n8n-333333?style=flat&logo=n8n)
+![Ollama](https://img.shields.io/badge/-Ollama-333333?style=flat&logo=ollama)
+
 ### Data & APIs
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
@@ -53,6 +57,7 @@ My base stack is **TypeScript/React/Next.js** on the front-end and **Node.js/Bun
 ![Drizzle](https://img.shields.io/badge/-Drizzle-333333?style=flat&logo=drizzle)
 ![TypeORM](https://img.shields.io/badge/-TypeORM-333333?style=flat&logo=typeorm)
 ![Knex](https://img.shields.io/badge/-Knex-333333?style=flat&logo=knexdotjs)
+![Zod](https://img.shields.io/badge/-Zod-333333?style=flat&logo=zod)
 ![REST APIs](https://img.shields.io/badge/-REST%20APIs-333333?style=flat)
 ![OpenAPI](https://img.shields.io/badge/-OpenAPI-333333?style=flat&logo=openapiinitiative)
 ![Swagger](https://img.shields.io/badge/-Swagger-333333?style=flat&logo=swagger)
@@ -77,4 +82,3 @@ My base stack is **TypeScript/React/Next.js** on the front-end and **Node.js/Bun
 ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
 ![Vitest](https://img.shields.io/badge/-Vitest-333333?style=flat&logo=vitest)
 ![Playwright](https://img.shields.io/badge/-Playwright-333333?style=flat&logo=playwright)
-![BunTest](https://img.shields.io/badge/-BunTest-333333?style=flat&logo=bun)
