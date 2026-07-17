@@ -1,15 +1,33 @@
-# 👋 Hi, I'm Rafael César - Full Stack Developer
+# 👋 Hi, I'm Rafael César — Full Stack Developer
+
+**Full-stack developer who takes products from idea to production** — and keeps them running.
 
 ## 👨🏻‍💻 About me
 
-I'm a **Full Stack** developer who builds **lean, well-architected systems** that are
-easy to maintain — from SaaS products to **AI agents** that handle real-world tasks
-(lead qualification, WhatsApp/CRM flows, document automation). Because in the end,
-**languages are just tools**.
+I build **lean, well-architected systems** that are easy to maintain: multi-tenant SaaS,
+subscription billing, video platforms, CRMs — and when the product calls for it,
+**AI agents** that handle real-world tasks (lead qualification, WhatsApp/CRM flows,
+document automation). Because in the end, **languages are just tools**.
 
-My base stack is **TypeScript/React/Next.js** on the front-end and **Node.js/Bun** on
-the back-end. For AI I reach for **Python/FastAPI** with **RAG, embeddings,
+My base stack is **TypeScript/React/Next.js** on the front-end and **Node.js/Bun**
+(Elysia, Hono) on the back-end, usually in a Turborepo monorepo with **PostgreSQL + Drizzle**
+and end-to-end type safety. For AI I reach for **Python/FastAPI** with **RAG, embeddings,
 LangChain/LangGraph** and **pgvector**.
+
+Some things I've shipped:
+
+- 🚀 An **AI editorial-planning SaaS** built solo from MVP to production — 100k+ pieces of content generated, recurring billing, self-service onboarding
+- 🎬 A **Netflix-style B2B course platform** with DRM video, role-based access and automatic user provisioning from the CRM
+- 📞 An **AI-powered sales-call analysis platform** — transcribes and scores calls 0–100 with RAG-backed golden examples, delivered as part of a consulting offering
+- 🤖 **SDR AI agents** in production for legal, real-estate and healthcare businesses — 5+ VPS at 99.5% uptime, +40% lead conversion
+- 📄 **Document automation** that cut contract processing time by 70% (5,000+ documents, ~60h/month saved)
+
+## 🌱 Currently
+
+- 📍 Fortaleza, Brazil (GMT-3) — working remotely
+- 🔨 Owning the full lifecycle of client products — architecture, development, deployment and ongoing support
+- 📚 Studying system design
+- ✍️ Sharing my journey as a developer on [LinkedIn](https://linkedin.com/in/rafaelcesardev)
 
 ## 🛠️ Tech Stack
 
@@ -24,6 +42,8 @@ LangChain/LangGraph** and **pgvector**.
 ![Alembic](https://img.shields.io/badge/-Alembic-333333?style=flat)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=nodedotjs)
 ![Bun](https://img.shields.io/badge/-Bun-333333?style=flat&logo=bun)
+![Elysia](https://img.shields.io/badge/-Elysia-333333?style=flat)
+![Hono](https://img.shields.io/badge/-Hono-333333?style=flat&logo=hono)
 ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
 ![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
@@ -34,7 +54,7 @@ LangChain/LangGraph** and **pgvector**.
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css&logoColor=1572B6)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwindcss)
 ![shadcn/ui](https://img.shields.io/badge/-shadcn/ui-333333?style=flat)
-
+z
 ### AI & Agents
 
 ![Claude Code](https://img.shields.io/badge/-Claude%20Code-333333?style=flat&logo=claude)
@@ -49,6 +69,7 @@ LangChain/LangGraph** and **pgvector**.
 ### Data & APIs
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+![Supabase](https://img.shields.io/badge/-Supabase-333333?style=flat&logo=supabase)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
 ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
@@ -77,8 +98,15 @@ LangChain/LangGraph** and **pgvector**.
 ![VPS](https://img.shields.io/badge/-VPS-333333?style=flat)
 ![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat&logo=vercel&logoColor=white)
 
-### Tests
+### Tests & Quality
 
 ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
 ![Vitest](https://img.shields.io/badge/-Vitest-333333?style=flat&logo=vitest)
 ![Playwright](https://img.shields.io/badge/-Playwright-333333?style=flat&logo=playwright)
+![Biome](https://img.shields.io/badge/-Biome-333333?style=flat&logo=biome)
+
+## 📫 Reach me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rafaelcesardev)
+[![Portfolio](https://img.shields.io/badge/-rafaelcesar.com-333333?style=flat&logo=googlechrome&logoColor=white)](https://rafaelcesar.com)
+[![Email](https://img.shields.io/badge/-rafael.cesar.dev@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:rafael.cesar.dev@gmail.com)
